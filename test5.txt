@@ -1,0 +1,9 @@
+{"url": "/orchestra", "timestamp": "2018-01-02T15:41:13.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/marketplace", "timestamp": "2018-01-02T15:41:17.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/orchestra", "timestamp": "2018-01-02T15:41:19.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/pedals", "timestamp": "2018-01-02T15:41:22.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "no-ads", "userId": 1}
+{"url": "/electric-guitars", "timestamp": "2018-01-02T15:41:30.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/pedals", "timestamp": "2018-01-02T15:41:33.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/pedals", "timestamp": "2018-01-02T15:41:38.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/electric-guitars", "timestamp": "2018-01-02T15:41:40.620579", "sessionId": "43dd83db-f1cf-4d66-a7b6-d57df50a1e8b", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/orchestra", "timestamp": "2018-01-02T15:41:49.620579", "sessionId": "c2dcebcb-930f-4c55-8558-62da428c3930", "experiments": "no-ads", "userId": 3}

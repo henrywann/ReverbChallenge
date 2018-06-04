@@ -1,0 +1,4 @@
+{"url": "/orchestra", "timestamp": "2018-01-02T15:41:13.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/marketplace", "timestamp": "2018-01-02T15:41:17.620579", "sessionId": "6d707042-801a-41de-9406-54e46f6ae433", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/orchestra", "timestamp": "2018-01-02T15:41:19.620579", "sessionId": "b1c15529-f3f0-461c-b2dd-b60fb02223c3", "experiments": "full-screen-ads", "userId": 1}
+{"url": "/pedals", "timestamp": "2018-01-02T15:41:22.620579", "sessionId": "cbb2aa48-24d9-4bc3-bd86-75072f75096d", "experiments": "no-ads", "userId": 3}
